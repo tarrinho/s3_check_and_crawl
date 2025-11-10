@@ -4,6 +4,7 @@ s3 buckets check and crawl in bash
 
 Usage:
   ./check_and_crawl_s3.sh bucket1 bucket2 ...
+  
   ./check_and_crawl_s3.sh -f buckets.txt
 
 What it does:
